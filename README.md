@@ -42,6 +42,6 @@ Superstore sales report is an end-to-end Power BI report that transforms raw sal
 - There appears to be a clear upward trend in sales towards the end of each year, particularly in late 2019 and late 2020. This indicates a seasonal pattern, likely tied to holiday shopping.
 - The forecast represented by the shaded orange area, predicts that sales will decline in the upcoming month from the peak seen at the beginning of the new year.
   
-<h2>Conclusion</h2>
+<h2>Conclusion :</h2>
 
 Historical profitability is skewed by a small set of discount-heavy categories and regions. Forecasting suggests that without discount policy correction and logistics optimization, future profits will degrade even if sales volume continues to grow.
